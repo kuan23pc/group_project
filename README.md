@@ -29,7 +29,7 @@ Users will [desribe use]
 The system will [describe behaviour] 
 
 ## Language 
-språket vi kommer använda 
+språket vi kommer använda (troligtvis python) 
 
 ## Build System 
 We will use [build tool] vilken nu det än är
