@@ -4,12 +4,14 @@ Group project for software engineering course
 ## Project description 
 This project will build a software system that: [vad vi nu än väljer att göra]
 
-##Team members : 
-|Names              |GitHub username| 
-|Andjela Kuzmanovski| kuan23pc      |
-|Isabella Laazar    |               |
-|Christina Outra    |               |
-|Marina Alramo      |               |  
+## Team members
+
+| Name | GitHub username |
+|------|------------------|
+| Andjela Kuzmanovski | @kuan23pc |
+| Isabella Laazar | |
+| Christina Outra | |
+| Marina Alramo | |
 
 ## Declarations 
 
