@@ -16,6 +16,7 @@ This project will build a software system that: [vad vi nu än väljer att göra
 ## Declarations 
 
 I, Andjela Kuzamanovski, Declare that I am the sole author of the content that I add to this repository. 
+
 I, Marina Alramo, Declare that I am the sole author of the content that I add to this repository.
 
 *Resten av er skriv samma fast med era namn*   
