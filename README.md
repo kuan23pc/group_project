@@ -10,7 +10,7 @@ This project aims to develop a task mangagement system that enables users to cre
 |------|------------------|
 | Andjela Kuzmanovski | @kuan23pc |
 | Isabella Laazar |@issaabellaa |
-| Christina Outra | |
+| Christina Outra |@christinaoutra |
 | Marina Alramo |@marinaalr |
 
 ## Declarations 
@@ -20,6 +20,8 @@ I, Andjela Kuzamanovski, Declare that I am the sole author of the content that I
 I, Marina Alramo, Declare that I am the sole author of the content that I add to this repository.
 
 I, Isabella Lazar, declare that I am the sole author of the content I add to this repository.
+
+I, Christina Outra, declare that I am the sole author of the content I add to this repository.
 
 *Resten av er skriv samma fast med era namn*   
 
