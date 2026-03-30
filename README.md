@@ -38,8 +38,12 @@ I, Christina Outra, declare that I am the sole author of the content I add to th
 ## How it will work 
 The application will run as a command line interface. Users can interact with the system by typing commands to add, remove, or update tasks. Each task can include a title, a deadline, and a priority level. In addition, tasks will be saved to a file so they remain available after the program is closed. When the program starts, it will load the previously saved tasks from the file. The system will provide feedback after each command. 
 
-## Language 
-Python  
+## Programming Language
+The project will be implemented in Python 3. 
+
+Python is used because it provides the necessary functionality for handling user input, data structures, and file operations in a console based application. 
+
+The program will be structured using object-oriented programming principles. 
 
 ## Build System 
 Python
