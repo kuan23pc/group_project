@@ -52,6 +52,9 @@ The application is executed using the Pyhton interpreter and does not depend on 
 
 To run the program: pyhton main.py
 
+## Kanban Board 
+You can find our Kanban Board here: https://github.com/users/kuan23pc/projects/1
+
 ## Work flow 
 - Each feature will be developed in a separate branch
 - Pull requests will be used before merging into main
